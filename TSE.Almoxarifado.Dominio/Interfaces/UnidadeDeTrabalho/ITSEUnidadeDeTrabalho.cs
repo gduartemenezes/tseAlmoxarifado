@@ -7,7 +7,7 @@ using TSE.Almoxarifado.Dominio.Interfaces.Repositorios;
 
 namespace TSE.Almoxarifado.Dominio.Interfaces.UnidadeDeTrabalho
 {
-    public interface IUnidadeDeTrabalho
+    public interface ITSEUnidadeDeTrabalho
     {
         void InicieTransacao();
 
